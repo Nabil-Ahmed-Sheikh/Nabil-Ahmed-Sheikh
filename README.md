@@ -1,4 +1,3 @@
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 <h1 align="center">Hi 👋, I'm Nabil Ahmed</h1>
 <h3 align="center">A passionate software developer from Bangladesh</h3>
 <img img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
