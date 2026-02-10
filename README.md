@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Graduate Student in **Electrical & Computer Engineering** at the **University of Calgary**  
+- 🎓 Graduated in **Electrical & Computer Engineering** from the **University of Calgary**  
 - 💻 4+ years of professional experience as a **Software Engineer**  
 - ⚙️ Skilled in **Cloud Infrastructure, DevOps, and Full-Stack Development**  
 - ⚡ Passionate about **Power Systems**, **Renewable Energy**, and **Smart Embedded Systems**  
